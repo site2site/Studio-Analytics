@@ -5,7 +5,7 @@ title: Site to Site | Presentation
 menu: project
 project: Studio Analytics
 ---
-## This is a section heading
+## 
 
 ### This is large text followed by a large image.
 
