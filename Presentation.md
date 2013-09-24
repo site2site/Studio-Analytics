@@ -16,20 +16,16 @@ An occupancy ticker provides real time data as people move in and out of Studio 
 
 ## Another Section
 
-### Here is some text introducing a series of images with a maximum width of 500px.
+### All Studio X locations will have international tickers, providing real time occupancy data
 
 *	![Image 1](http://i.imgur.com/NaD2JG9.jpg)
-*	![Image 2](http://placehold.it/500x500)
-*	![Image 3](http://placehold.it/300x450)
-*	![Image 4](http://placehold.it/600x350)
-*	![Image 5](http://placehold.it/1280x900)
 
-Be sure to note that the images above are in a series because they are set up like bullet points, with an \* asterix before them.
 
-### Below are some much smaller images if you want to group a whole bunch of them together.
 
-*	__![Image 1](http://placehold.it/1280x900)__
-*	__![Image 2](http://placehold.it/500x500)__
+### The set up will utilize two motion sensors, hooked up to a mini Rasperry Pi computer which transmits data to the cloud.
+
+*	__![Motion Sensor](http://www.jascoproducts.com/products/pc/catalog/45132/45132webd1.jpg)__
+*	__![Rasperry Pi](http://www.blogcdn.com/www.engadget.com/media/2012/05/05-31-2012dsc0213300-1338512994.jpg)__
 *	__![Image 3](http://placehold.it/300x450)__
 *	__![Image 4](http://placehold.it/600x350)__
 *	__![Image 5](http://placehold.it/1280x900)__
