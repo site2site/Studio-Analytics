@@ -34,6 +34,14 @@ Projector x 1
 
 
 
+
+
+
+
+
+
+
+
 ###Vibe
 
 A grid of sound sensors is embedded within Studio-X New York to detect sound (vibrations) and map out the activity "vibe" of the space.
