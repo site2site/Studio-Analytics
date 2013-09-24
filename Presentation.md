@@ -7,9 +7,9 @@ project: Studio Analytics
 ---
 ## 
 
-### This is large text followed by a large image.
+### Studio X Ticker
 
-![Image](http://i.imgur.com/rAN2bKk.jpg)
+![Image](http://i.imgur.com/dvBSjeG.jpg)
 
 An occupancy ticker provides real time data as people move in and out of Studio X.
 
@@ -18,7 +18,7 @@ An occupancy ticker provides real time data as people move in and out of Studio 
 
 ### Here is some text introducing a series of images with a maximum width of 500px.
 
-*	![Image 1](http://placehold.it/1280x900)
+*	![Image 1](http://i.imgur.com/NaD2JG9.jpg)
 *	![Image 2](http://placehold.it/500x500)
 *	![Image 3](http://placehold.it/300x450)
 *	![Image 4](http://placehold.it/600x350)
