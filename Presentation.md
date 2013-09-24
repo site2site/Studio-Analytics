@@ -37,7 +37,10 @@ An occupancy ticker provides real time data as people move in and out of Studio 
 *	__![Image 11](http://placehold.it/600x350)__
 *	__![Image 12](http://placehold.it/300x450)__
 
-The images above are set up like bullet points, and they are wrapped in double underscores, which will shrink them to a maximum size of 120px in height.
+##Parts
+Passive Infrared Sensor x 2
+Rasperry Pi x 1
+Projector x 1
 
 ## Section Nº3
 
