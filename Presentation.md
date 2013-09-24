@@ -9,12 +9,10 @@ project: Studio Analytics
 
 ### This is large text followed by a large image.
 
-![Image](http://placehold.it/1280x600)
+![Image](http://i.imgur.com/rAN2bKk.jpg)
 
-This is a small text caption to explain that the image above has been scaled to fit the page.
+An occupancy ticker provides real time data as people move in and out of Studio X.
 
->	"This is a quote that will be red and italic."
-	-This is the [source](https://www.google.com/)
 
 ## Another Section
 
