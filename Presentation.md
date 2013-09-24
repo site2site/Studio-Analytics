@@ -26,16 +26,6 @@ An occupancy ticker provides real time data as people move in and out of Studio 
 
 *	__![Motion Sensor](http://www.jascoproducts.com/products/pc/catalog/45132/45132webd1.jpg)__
 *	__![Rasperry Pi](http://www.blogcdn.com/www.engadget.com/media/2012/05/05-31-2012dsc0213300-1338512994.jpg)__
-*	__![Image 3](http://placehold.it/300x450)__
-*	__![Image 4](http://placehold.it/600x350)__
-*	__![Image 5](http://placehold.it/1280x900)__
-*	__![Image 6](http://placehold.it/600x350)__
-*	__![Image 7](http://placehold.it/500x500)__
-*	__![Image 8](http://placehold.it/1280x900)__
-*	__![Image 9](http://placehold.it/600x350)__
-*	__![Image 10](http://placehold.it/500x500)__
-*	__![Image 11](http://placehold.it/600x350)__
-*	__![Image 12](http://placehold.it/300x450)__
 
 ##Parts
 Passive Infrared Sensor x 2
