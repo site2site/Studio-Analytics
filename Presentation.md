@@ -32,6 +32,12 @@ Passive Infrared Sensor x 2
 Rasperry Pi x 1
 Projector x 1
 
+
+
+###Vibe
+
+A grid of sound sensors is embedded within Studio-X New York to detect sound (vibrations) and map out the activity "vibe" of the space.
+
 ## Section Nº3
 
 ### In Markdown you can insert regular HTML, so it's easy to, say, insert a video from Youtube (be sure to use the old embed code).
