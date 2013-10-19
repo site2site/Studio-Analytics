@@ -7,42 +7,7 @@ project: Studio Analytics
 ---
 ## 
 
-## Studio X Ticker
-
-![Image](http://i.imgur.com/dvBSjeG.jpg)
-
-An occupancy ticker provides real time data as people move in and out of Studio X.
-
-
-### Another Section
-
-### All Studio X locations will have international tickers, providing real time occupancy data
-
-*	![Image 1](http://i.imgur.com/NaD2JG9.jpg)
-
-
-
-#### The set up will utilize two motion sensors, hooked up to a mini Rasperry Pi computer which transmits data to the cloud.
-
-*	__![Motion Sensor](http://www.jascoproducts.com/products/pc/catalog/45132/45132webd1.jpg)__
-*	__![Rasperry Pi](http://www.blogcdn.com/www.engadget.com/media/2012/05/05-31-2012dsc0213300-1338512994.jpg)__
-
-###Parts
-Passive Infrared Sensor x 2
-Rasperry Pi x 1
-Projector x 1
-
-
-
-
-
-
-
-
-
-
-
-##VIBE
+## Studio Analytics
 
 A grid of sound sensors is embedded within Studio-X New York to detect sound (vibrations) and map out the activity "vibe" of the space.
 
